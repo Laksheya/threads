@@ -1,7 +1,1 @@
-# Threads Clone Tutorial
-
-### Built With React, MongoDB, ExpressJS, NodeJS, JWT, Cloudinary
-
-# [Tutorial](https://youtu.be/tvKhOAlAjTY?si=cb5Et8_xIi3ZliiE)
-
-![Screenshot of App](https://i.ibb.co/Gs9fWwh/Group-8.png)
+This MERN stack project is a full-stack threads application clone, featuring user authentication, real-time updates, responsive design, and interactive discussions. Users can create, manage threads, and engage in dynamic conversations. The application leverages MongoDB, Express.js, React.js, Node.js, Cloudinary and Socket.io for a seamless and modern web experience.
